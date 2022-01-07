@@ -1,0 +1,95 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.hero h1{
+    font-size: 40px;
+    border-left: 5px solid red;
+    padding-left: 20px;
+}
+.orange-color{
+    color: #ffa500;
+}
+.flexible-container{
+    display: flex;
+    padding: 80px 150px;
+}
+
+.Mission-item{
+    width: 33%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 25px 32px;
+}
+.mission-2{
+    margin: 0px 32px;
+}
+.Mission-item img{
+    height: 200px;
+    width: 200px;
+}
+.half-width{
+    width: 50%;
+ 
+    
+}
+.half-width img{
+     width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.MyMission-area{
+    
+   
+}
+/* .Mission-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 40px gray;
+} */
+.section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width p{
+    margin-bottom: 40px;
+}
+.half-width .scrool{
+    margin-top: 40px;
+}
+.half-width img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+ 
+}
+.Develop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.know{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my{
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+}
